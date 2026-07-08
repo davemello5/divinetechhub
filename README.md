@@ -1,2 +1,2 @@
 # divinetechhub
-My first website 
+techs and gadgets 
